@@ -1,0 +1,7 @@
+C:\Users\nrodriguezr\Desktop\Nieves\Ejercicios de prueba\HolaMundo\HolaMundo\bin\Debug\HolaMundo.exe.config
+C:\Users\nrodriguezr\Desktop\Nieves\Ejercicios de prueba\HolaMundo\HolaMundo\bin\Debug\HolaMundo.exe
+C:\Users\nrodriguezr\Desktop\Nieves\Ejercicios de prueba\HolaMundo\HolaMundo\bin\Debug\HolaMundo.pdb
+C:\Users\nrodriguezr\Desktop\Nieves\Ejercicios de prueba\HolaMundo\HolaMundo\obj\Debug\HolaMundo.csprojAssemblyReference.cache
+C:\Users\nrodriguezr\Desktop\Nieves\Ejercicios de prueba\HolaMundo\HolaMundo\obj\Debug\HolaMundo.csproj.CoreCompileInputs.cache
+C:\Users\nrodriguezr\Desktop\Nieves\Ejercicios de prueba\HolaMundo\HolaMundo\obj\Debug\HolaMundo.exe
+C:\Users\nrodriguezr\Desktop\Nieves\Ejercicios de prueba\HolaMundo\HolaMundo\obj\Debug\HolaMundo.pdb

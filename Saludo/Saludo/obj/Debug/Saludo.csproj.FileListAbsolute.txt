@@ -1,0 +1,7 @@
+C:\Users\nrodriguezr\Desktop\Nieves\Ejercicios de prueba\Saludo\Saludo\bin\Debug\Saludo.exe.config
+C:\Users\nrodriguezr\Desktop\Nieves\Ejercicios de prueba\Saludo\Saludo\bin\Debug\Saludo.exe
+C:\Users\nrodriguezr\Desktop\Nieves\Ejercicios de prueba\Saludo\Saludo\bin\Debug\Saludo.pdb
+C:\Users\nrodriguezr\Desktop\Nieves\Ejercicios de prueba\Saludo\Saludo\obj\Debug\Saludo.csprojAssemblyReference.cache
+C:\Users\nrodriguezr\Desktop\Nieves\Ejercicios de prueba\Saludo\Saludo\obj\Debug\Saludo.csproj.CoreCompileInputs.cache
+C:\Users\nrodriguezr\Desktop\Nieves\Ejercicios de prueba\Saludo\Saludo\obj\Debug\Saludo.exe
+C:\Users\nrodriguezr\Desktop\Nieves\Ejercicios de prueba\Saludo\Saludo\obj\Debug\Saludo.pdb

@@ -1,0 +1,7 @@
+C:\Users\nrodriguezr\Desktop\Nieves\Ejercicios de prueba\EdadLegal\EdadLegal\bin\Debug\EdadLegal.exe.config
+C:\Users\nrodriguezr\Desktop\Nieves\Ejercicios de prueba\EdadLegal\EdadLegal\bin\Debug\EdadLegal.exe
+C:\Users\nrodriguezr\Desktop\Nieves\Ejercicios de prueba\EdadLegal\EdadLegal\bin\Debug\EdadLegal.pdb
+C:\Users\nrodriguezr\Desktop\Nieves\Ejercicios de prueba\EdadLegal\EdadLegal\obj\Debug\EdadLegal.csprojAssemblyReference.cache
+C:\Users\nrodriguezr\Desktop\Nieves\Ejercicios de prueba\EdadLegal\EdadLegal\obj\Debug\EdadLegal.csproj.CoreCompileInputs.cache
+C:\Users\nrodriguezr\Desktop\Nieves\Ejercicios de prueba\EdadLegal\EdadLegal\obj\Debug\EdadLegal.exe
+C:\Users\nrodriguezr\Desktop\Nieves\Ejercicios de prueba\EdadLegal\EdadLegal\obj\Debug\EdadLegal.pdb
